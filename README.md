@@ -2,7 +2,7 @@
 
 Name: Nicholas Nguyen
 
-Github Pages URL: [link](https://nicholas-ngyn.github.io/Lab8-Starter/)
+Github Pages URL: [https://github.com/nicholas-ngyn/Lab8-Starter](https://nicholas-ngyn.github.io/Lab8-Starter/)
 
 Short paragraph about graceful degradation and service workers:
 
